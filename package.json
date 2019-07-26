@@ -9,6 +9,7 @@
   "author": "Avijeet Singh",
   "license": "ISC",
   "dependencies": {
+    "dotenv": "^8.0.0",
     "express": "^4.17.1"
   }
 }
